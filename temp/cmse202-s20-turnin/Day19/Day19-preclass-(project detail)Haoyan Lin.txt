@@ -1,0 +1,12 @@
+Group 2 project -Haoyan Lin
+
+1. The project goal is exploring the price trend of three kinds of commodities that effected by some huge events in societies, such as inferior goods, normal goods, luxury goods.
+
+2. mention1:
+Haoyan Lin needs to find one or two commodities from inferior goods, and do analysis about the price trends and prediction of them.
+Dongdong Li is responsible for finding representatives of several common commodities to study changes.
+Renzi qian covers the luxury goods.
+mention 2:
+We need to find some factors that affect the price of goods and then analyze these factors on the different types of goods produced by different effects.
+mention 3:
+Combined these commodities and get conclusions about how three types of goods react to huge events. According to this, the government can adjust and respond to the price of commodities in time according to the actual situation whiles some certain events happen.
